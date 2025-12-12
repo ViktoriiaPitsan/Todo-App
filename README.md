@@ -7,7 +7,7 @@ This is a simple Todo App built with React, TypeScript, and integrates with an e
 The main goal of this project is to learn how to work with React, TypeScript, and APIs. The app follows best practices for managing state, handling API requests, and providing feedback to the user.
 
 ## Live Preview
-[Live Demo](https://github.com/ViktoriiaPitsan/Todo-App)
+[Live Demo](https://ViktoriiaPitsan.github.io/Todo-App/)
 
 ## Technologies Used
 - **React** - JavaScript library for building user interfaces
