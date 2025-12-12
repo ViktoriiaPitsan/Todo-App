@@ -35,16 +35,17 @@ The main goal of this project is to learn how to work with React, TypeScript, an
 To get started with the project, first clone the repository:
 
 git clone https://github.com/your-username/todo-app.git
+
 cd todo-app
 
 ### Install dependencies:
 npm install
-# or
+#### or
 yarn install
 
 ### Run the project locally:
 npm start
-# or
+#### or
 yarn start
 
 
